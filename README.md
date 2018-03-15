@@ -1,5 +1,5 @@
-# RHOAR Vertex Name Service
-Vertex Name Service Microservice - RHOAR course
+# RHOAR Vert.x Name Service
+Vert.x Name Service Microservice - RHOAR course
 
 ## Compile Application
 ```
